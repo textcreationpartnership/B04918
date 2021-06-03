@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The particulars contraverted between the town of Leith and Edinburgh may be reduced briefly into two heads; some relate to the point of right, the rest are in fact, and points of grievance against the twon of Edinburgh's doing. Although their right were uncontraverted.</title>
+         </titleStmt>
+         <extent>Approx. 26KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04918</idno><idno type="EEBO-CITATION">52614820</idno>
+  <idno type="VID">176003</idno>
+  <idno type="EEBO-PROQUEST">2240886437</idno>
+  
+            <idno type="STC">Wing P607B</idno>
+            <idno type="STC">ESTC R181491</idno>
+            <idno type="OCLC">52614820</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B04918)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176003)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2758:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The particulars contraverted between the town of Leith and Edinburgh may be reduced briefly into two heads; some relate to the point of right, the rest are in fact, and points of grievance against the twon of Edinburgh's doing. Although their right were uncontraverted.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1655?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: crease, print show-through with loss of text.</note>
+                  <note>Abreviat of the debate between Edinburgh and Leith before the Council of Scotland in 1655 regarding the control exercised by Edinburgh over Leith's trade.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Edinburgh (Scotland) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Leith (Edinburgh, Scotland) --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:176003:1"/>
+            <head>THE PARTICULARS <hi>Contraverted between the Town of</hi> LEITH <hi>and</hi> EDINBURGH <hi>may be reduced briefly into two Heads; Some Relate to the Point of Right, the rest are in Fact, and points of Grievance against the Town of</hi> EDINBURGH's <hi>Doing. Although their Right were Ʋncontraverted.</hi>
+            </head>
+            <div n="1" type="claim">
+               <p>LEITH Claimes, First, the Benefit of a Contract past betwixt certain Persons, their Commissioners on the one part, and Queen <hi>Mary</hi> Dowager, in Name and Behalf of the Queen of <hi>Scotland</hi> her Daugh<g ref="char:EOLhyphen"/>ter on the other part, dated the <hi>Penult</hi> of <hi>January</hi> 1555; By which the Queen Dowager declares, That at that same very minute of time, the Laird of <hi>Restalrig,</hi> had resigned the Superiority of <hi>Leith,</hi> in the said Q: Dowagers Hands, in Favours of the Town of <hi>Leith,</hi> to the Effect it might be Erected in a Free Burgh Royal; And therefore she obleidges her self, upon her Honour and Faith, to cause to be Erected the said Town accordingly; <hi>Leith</hi> paying to the Laird of <hi>Restalrige,</hi> 3000 pound <hi>Scots,</hi> and advancing some Timber to her Works at <hi>Leith,</hi> and the Inhabitants paying a yearly Dutie of 7 <hi>ss:</hi> 6 <hi>d▪ Scots,</hi> for each Tenement, to the Queen and her Suceessors; Accordingly <hi>Leith</hi> paid the 3000 pound to <hi>Restalrig,</hi> and advanced 10000 pounds worth of Timber to her Works, whereof they have the Discharges yet extant, and being willing according to the said Contract, to pay to her Heirs and her Suc<g ref="char:EOLhyphen"/>cessors, the said yearly Duty for each Tenement. And considering with all the great Benefit will thereby arise to the whole Common-Wealth, They hum<g ref="char:EOLhyphen"/>bly crave that his Highness will fullfil the Queens part of the said Contract. And Erect them in a free Burgh Royal, there being no place or Situation in <hi>Scotland</hi> more Commodious for a free Burgh.</p>
+               <div type="response">
+                  <head>EDINBURCH's Answers.</head>
+                  <p>TO this Contract it is Answered for <hi>Edinburgh,</hi> First, However the Queen Dowagers Contract bears, That <hi>Restalrige</hi> had resigned <hi>Leith's</hi> Superiority in the Queens hands, to the Effect <hi>Leith</hi> might be Erected. Yet <hi>Restalriges</hi> own Resignation or Disposition bears no such thing, But expresly bears to the Queen her Heirs and Assigneys. <hi>2dly.</hi> The Contract is <hi>Contractis Conditionalli,</hi> either to Erect or Repay the Moneys. <hi>3dly.</hi> The Contract could not bind the Queen being Mi<g ref="char:EOLhyphen"/>nor; But the Law allows all Minors to Revoke, as well Princes as others, and she did Revoke, and thereafterwards disponed the Superiority to <hi>Edinburgh, Anno</hi> 1565. <hi>4ly.</hi> Before the said Contract, the Laird of <hi>Restalrige</hi> had renounced in Favours of <hi>Edinburgh,</hi> all Girnelling of Cornes, selling of Wines, <hi>&amp;c:</hi> in <hi>Anno</hi> 1398, Ratified by King <hi>James</hi> 4th, <hi>Anno</hi> 1510. <hi>5thly.</hi> They have enjoyed the Superiority about 40 years, which cannot now be called in Question, after so long time as is statute by express Act of Parliament.</p>
+               </div>
+               <div type="response">
+                  <pb n="2" facs="tcp:176003:2"/>
+                  <head>Leith's Reply.</head>
+                  <p>TO their Answers, <hi>Leith</hi> made thir Replys, Which Collonel <hi>Bryan</hi> omits in his Report, and therefore would be considered. To the <hi>1st.</hi> Seeing the Eminent place wherein GOD hath placed Princes and Soveraign Rulers, doth Liberate them from the common Course of Law, and personal Execution against them, by Hornings, Inhibitions, such Legal Diligences as are not de<g ref="char:EOLhyphen"/>nyed to other Subjects, against any fellow Subjects. Therefore it is, that even in Law, a Princess Personal Contract or Stipulation is esteemed as ob<g ref="char:EOLhyphen"/>lieging for Security to the Partie with whom the Stipulation or Contract is made, as if it were Real, and had all the other Formalities requisit in Contract between Subjects: And therefore, albeit <hi>Restalrigs</hi> Renounciation bears not, That he did the same, to the Effect <hi>Leith</hi> might be Erected. Yet seeing the Queen Dowagers Contract, which is of the same day the said Renounciation, and before the same Witnesses, bears expresly, and that <hi>Restalrige</hi>'s receiving the 3000 pound from <hi>Leith,</hi> is the price of the said Resignation imports no less, These are equivolent as to <hi>Restalrigs</hi> own Renounciation had carryed in Favours of <hi>Leith.</hi> To the 2<hi>d.</hi> Albeit it had been conditional to pay the Money, and the Q: might have made her Election; Yet seeing the Money was never payed, the Erection is now the Alternative, only prestable, and she could never have deprived them of the only disposing <hi>Leith</hi>'s Superiority, unless he had first performed the other Alternative Condition. To the 3<hi>d.</hi> The Queens Major (as is clear by her Revocation in Parliament,) the time of the said Contract, and Gift of <hi>Baylirie,</hi> which was Nine Moneths after her Revocation, in <hi>Anno</hi> 1555: The year beginning in <hi>March</hi> as it yet doth in <hi>England,</hi> and continued so till the year 1600: Neither could she ever have Revocked the Acts done in Favours of <hi>Leith,</hi> seeing her publick Revenue much <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>, whereas by the subsequent Deed, it was prejudged; <hi>Edinburgh</hi> having given nothing for it, neither could the Subsequent grant of the Superiority be any Revocati<g ref="char:EOLhyphen"/>on of the said Contract, because it is very consistent with the Right of Superi<g ref="char:EOLhyphen"/>ority in Mans person, for the Supream Magistrates to Erect most of the Roy<g ref="char:EOLhyphen"/>al Burrows in <hi>Scotland</hi> being of that Nature. To the <hi>4th.</hi> These Particulars renounced, being personal Slaveries, or inconsistent with the common Liberty of a People, and are taken away by the Act of Union, And albeit they could be estimate <hi>praedial</hi> Servitudes, such as may be imposed, and due from one Village to another. yet they could not now be claimed by <hi>Edinburgh</hi> from <hi>Leith,</hi> because such Servitudes <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> Confusion, so that after <hi>Edin<g ref="char:EOLhyphen"/>burgh</hi> had acquired <hi>Leith</hi>'s superiority in their own persons, they could not there<g ref="char:EOLhyphen"/>after exact of them any <hi>praedial</hi> Sernitude, <hi>quìa res nemini servit.</hi> To the <hi>5th.</hi> Anent the 40 years prescription, <hi>Leith</hi> opones the continual Interruption by their Protestation at the beginning, against <hi>Edinburgh</hi>'s Right and Suspensions, and addresses to the King and his Council, and others in Authority, and Deeds of Resistance, which hath occasioned some Blood-shed between the several Inhabitants, as is nottour.</p>
+               </div>
+            </div>
+            <div n="2" type="claim">
+               <head>
+                  <hi>LEITH'S</hi> Claim.</head>
+               <p n="2">2. <hi>LEith</hi>'s Claims the Benefite of a Commission of Bailery granted to them in <hi>Feber:</hi> (1555) under the Great Seal of <hi>Scotland,</hi> expresly relative to the aforesaid Contract; By which the Queen gives Power to the Town of <hi>Leith</hi>'s Commissionrie to Exercise Jurisdiction within themselves, with advice of their own Town Council, with Power of using all their Rights and Priviledges of Superiority as fully as she, or the Laird of <hi>Restalrig</hi> could have done themselves; And that alwayes, and while they were erected in a Free Burgh Royal, at
+<pb n="3" facs="tcp:176003:2"/> least untill the Queen should repay the 3000 Pound, and price of the Timber, which she never did.</p>
+               <div type="response">
+                  <head>City of EDINBURGH'S Answer.</head>
+                  <p n="2">2. TO the Commission of Bailery, <hi>Edinburgh</hi> Answers. 1<hi>mo.</hi> It was Personal to the particuiar Persons therein mentioned, and died with them. <hi>2dly.</hi> Albeit it had not been Personal, <hi>quoad</hi> them; Yet it was Personal <hi>quoad</hi> the Queen; And could endure no longer than her Life, seeing there followed no Infestment u<g ref="char:EOLhyphen"/>pon the said Gift of Bailery: <hi>3dly.</hi> It was revocked, as was the preceeding Contract by her revocation Registrated in Parliament. <hi>4ly.</hi> It is Prescribed, <hi>Edinburgh</hi> having Possest the Bailery thereof now 40 Years <hi>ut supra.</hi>
+                  </p>
+               </div>
+               <div type="response">
+                  <head>Leiths Replyes.</head>
+                  <p n="2">2. TO the Bailery, <hi>Leith</hi> Replyes. To the first Answer; Albeit the Persons be named in the Gift; Yet that makes not the Bailery personal, be<g ref="char:EOLhyphen"/>cause the persons therein named were these, who were Commissioners for the whole Inhabitants of <hi>Leith,</hi> who had warrant in Write to do every thing for the saids Inhabitants, which they might have done themselves; So that what was done by them was <hi>publico nomine,</hi> doth clearly appear by the Gift it self, and deeds done thereupon: For it is not an ordinary Bailery as the Laird of <hi>Restalrig,</hi> or any other Barron was in use to appoint (as <hi>Edinburgh</hi> pre<g ref="char:EOLhyphen"/>tends) because it is not first to themselves to exaust the Bailery and Jurisdiction personally, but an elected presentative of the whole Incorporation. 2<hi>do.</hi> The time of the indurance being <hi>semper &amp; eousque,</hi> ever and while they were Erec<g ref="char:EOLhyphen"/>ted, at least the Money payed, shews the Bailery was not personal to dy with the persons, but it was to continue ever until one of the conditions was performed. 3<hi>d.</hi> The said Office of Bailery in <hi>Anno</hi> (1568) Three years af<g ref="char:EOLhyphen"/>ter <hi>Edinburgh</hi> had bought their pretended Superiority was exerced by other In<g ref="char:EOLhyphen"/>habitants of <hi>Leith</hi> than thir persons mentioned in the said Gift, which shews the Gift was not personal, as by a Charter and seising <hi>Anno</hi> aforesaid and produced is made clear. To the second Answer being, that the Bailery was personal <hi>quoad</hi> the Queen, and died with her, because it wanted infeftment. It is Reply<g ref="char:EOLhyphen"/>ed; Yet the assertion is assured a Bailery, being but a bare Office may very well be transmitted without any Infeftment; And is sufficiently sufficient by Gift under the Great Seal, and is nottour in all the Offices of <hi>Scotland,</hi> espe<g ref="char:EOLhyphen"/>cially this being a Bailery given to an Incorporation which cannot dy. To the 3<hi>d</hi> and <hi>4th</hi> Answers annent the Bailery <hi>Leith</hi> Repeats their Reply to <hi>Edinburgh.</hi> 3<hi>d</hi> and <hi>5th</hi> Answers annent the Contract.</p>
+               </div>
+            </div>
+            <div n="3" type="claim">
+               <head>
+                  <hi>Leith</hi>'s <hi>Claim, as to the Matter of Fact and point of Grievance.</hi>
+               </head>
+               <p n="3">3. <hi>LEith</hi> Complaines first, That the most and greatest <hi>Edinburgh</hi> could pretend in and over <hi>Leith,</hi> is only as Barrons of <hi>Restalrig,</hi> by vertue of the aforesaid renounciation made to the Queens Disposition of the Superiority to them <hi>Anno</hi> 1565, nevertheless contrary to his Highnesses Ordinance, pre<g ref="char:EOLhyphen"/>scribing the particular way for Barron Courts; They in high contemp thereof impose their said Barron Bailerys with full of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dignosing of all Causes what consequently soever they be, of Fyning, and Imprisoning their Inhabitants by themselves, without any concourse of the Neighbours direct, contrary to his Highness his said Act. The Bailies being strangers not Inhabiting with<g ref="char:EOLhyphen"/>in the Barrony.</p>
+               <div type="response">
+                  <pb n="4" facs="tcp:176003:3"/>
+                  <head>Edinburghs Answers.</head>
+                  <p n="3">3. THis Answered for the Town of <hi>Edinburgh</hi> to the 1st Grievance, that they have been in the use of <hi>Leith</hi> Magistrats, and Bailiffs these Hundred Years in that same manner as now they do; And that though the Bailiffs be Strangers to <hi>Leith</hi> and Indwellers in <hi>Edinburgh;</hi> Yet <hi>Leith</hi> hath no reason to complain, because their Magistrats are Burgesses of <hi>Edinburgh,</hi> though in all probability are more unsuspected either of Partiality or Faction, than if a Neighbour of <hi>Leith</hi> should be made Judge over his Neighbours and Brethren.</p>
+               </div>
+               <div type="response">
+                  <head>Leiths Replyes ommitted in Collonel Bryans Report.</head>
+                  <p n="3">3. TO the first Answer anent particular Grievances; The Town of <hi>Leith</hi> oppones their Complaint with the Tenor of his Highness Act of Uni<g ref="char:EOLhyphen"/>on and Ordinance for Barron Courts, whereby all Heritable Bailerys without distinction are expresly discharged, not withstanding any grant or custom in the contrair, and the particular manner of Electing Bailiffs, holding of Courts extant of their Power and way of Administrating of Justice to the People with<g ref="char:EOLhyphen"/>in their placeing, or particularly set down, contrair to all which <hi>Edinburgh</hi> as Barron of <hi>Restalrig</hi> imposes upon <hi>Leith</hi> yearly, to Magistrates without re<g ref="char:EOLhyphen"/>gard of the said Act or Ordination; And if their Ancient custom of so doing should Justifie them; The like might be alledged for all the Barrons in <hi>Scotland,</hi> and thereby they should render his Highness Act altogether void and of none effect.</p>
+               </div>
+            </div>
+            <div n="4" type="claim">
+               <head>LEITH's Claim.</head>
+               <p>WHatever Cess is Imposed upon <hi>Edinburgh,</hi> The Magistrats without any Consent of the said Town <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> such proportion thereof on them as they think fit, albeit they be neither part nor pertinent of <hi>Edinburgh,</hi> nor reapes any Benefit from them, but are Inslaved by them.</p>
+               <div type="response">
+                  <head>EDINBURGH's Answer.</head>
+                  <p>TO the second it is Answered; That <hi>Edinburgh</hi>'s Stenting of <hi>Leith,</hi> was a Fa<g ref="char:EOLhyphen"/>vour to them, as being a Pendicle of <hi>Edinburgh,</hi> by proportioning a part of <hi>Edinburgh's</hi> Cess upon them there, as if they had been lookt on as a part of the Shire, and not a part of the Burgh, The Burden would have lyen more heavie upon them.</p>
+               </div>
+               <div type="response">
+                  <head>LEITH's Reply.</head>
+                  <p>TO the second Answer, <hi>Leith</hi> Replyes, That the Favour shewn them by <hi>Edinburgh</hi> in imposing, their Cess may be easily guest at, con<g ref="char:EOLhyphen"/>sidering that the Cess payed by <hi>Leith,</hi> is the Summ of <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Whereas the Cess imposed upon the great Town of <hi>Newcastle</hi> upon <hi>Tyne,</hi> is on<g ref="char:EOLhyphen"/>ly some few pence more <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Which unjust proportion, it not imaginable, could have been charged upon them by any Shire in <hi>Scotland,</hi> where they lived Men but of ordinary Discretion, neither is their proportion of Cess more unjust then the Reason thereof is false, <hi>viz:</hi> That <hi>Leith</hi> is a Pen<g ref="char:EOLhyphen"/>dicle of <hi>Edinburgh,</hi> whereas it cannot be made appear <hi>Leith</hi> is not, nor ever was either Part, Pertinent, or Pendicle of <hi>Edinburgh.</hi> And it was lately found by the Council, for Administration of Justice, That <hi>Edinburgh</hi> having impos<g ref="char:EOLhyphen"/>ed Excise upon the <hi>West-port,</hi> and other <hi>Subburbs</hi> about <hi>Edinburgh,</hi> as Pendicles of the Burgh. Yet they having found the same no Pendicle, did adjudge the Excise to belong to the Council of Excise, and no wayes to the Town of <hi>Edinburgh.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="5" type="claim">
+               <pb n="5" facs="tcp:176003:3"/>
+               <head>Leith's Claim.</head>
+               <p n="5">5. AS Barrons and pretended Superiority of late years, they have altered the Inhabitents of <hi>Leith,</hi> their Redendoes and Duties in their Old Charter, refusing to enter or Infest them without such Duties were insert as they please.</p>
+               <div type="response">
+                  <head>Edinburghs Answer.</head>
+                  <p n="5">5. TO the third it is Answered, That alteration of the Vassals holdings Inhabi<g ref="char:EOLhyphen"/>tants of <hi>Leith,</hi> was duely the Town of <hi>Edinburghs,</hi> either upon just grounds in Law, or by the parties own consent.</p>
+               </div>
+               <div type="response">
+                  <head>Leiths Replyes</head>
+                  <p n="5">5. TO the third, <hi>Leith</hi> Replyes, That there can no just ground in Law be shown, why <hi>Edinburgh</hi> changed their Holdings; And they being their usurped Superiors, any little alteration the Law provides to be extortioned, it being a maxim in Law, <hi>qui potentior rogat imperat;</hi> and it can be made appear, that any of these Articles were extorted.</p>
+               </div>
+            </div>
+            <div n="6" type="claim">
+               <head>Leith's Claim</head>
+               <p n="6">6. THey hinder any of the Inhabitants to Grind Corn, sell Wine, Brew Ale, make Malt, sell Candles, Stearch, Prins, or the meanest Com<g ref="char:EOLhyphen"/>modities of all, for entertainment of Families, and necessary for any Incorpora<g ref="char:EOLhyphen"/>tion whatsoever.</p>
+               <div type="response">
+                  <head>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </head>
+                  <p n="6">6. TO the fourth it is Answered, That the Laird of <hi>Restalrig,</hi> Superior of <hi>Leith,</hi> did in Anno 1398, for himself and his Vassals, and Tennants if <hi>Leith,</hi> re<g ref="char:EOLhyphen"/>nounce any such priviledges of Girneling of Corns, or selling of Wine, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+               <div type="response">
+                  <head>Leiths Replyes.</head>
+                  <p n="6">6. TO the <hi>4th Leith</hi> Replyes; First, <hi>Restalrigs (Anno</hi> 1398) being against Girneling of Corn, selling of divers, and Vendition of pettie Commo<g ref="char:EOLhyphen"/>dities, which are common to all Subjects, and necessary for all Incorporati<g ref="char:EOLhyphen"/>ons, <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Lawfully be renounced by the Inhabitants of <hi>Leith</hi> them<g ref="char:EOLhyphen"/>selves, or both by two Superiors their Names, without express Warrant. 2<hi>do.</hi> No such servitude could be imposed by any Superior after he is denounced of the propertie of his Lands, in favours of his Vassals; because if it were per<g ref="char:EOLhyphen"/>mitted to impose such servitudes upon their Vassals at any time; They then might make the propertie altogether, useles by imposing such Burdens thereu<g ref="char:EOLhyphen"/>pon, as would make the Vassals glad to be quite of his Land, providing they were free of the Burden. 3<hi>tio.</hi> The servitude contain the Renounciati<g ref="char:EOLhyphen"/>ation, being in effect personal slevery to the Superiors, are exhibited by the Act of Union. Lastly, Though they were not Petsonal, but real predical ser<g ref="char:EOLhyphen"/>vitudes: Yet <hi>Edinburgh</hi> as present Superior over <hi>Leith,</hi> could not acclaim a<g ref="char:EOLhyphen"/>ny such servitudes from <hi>Leith,</hi> it being a Maxim in Law. <hi>Confusioné Domini tolitur servitutes qui Res sua nemini servit.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="7" type="claim">
+               <head>LEITH's Claime.</head>
+               <p n="5">5. THey will not permit any of their own Burgesses to Inhaabit within the Town of <hi>Leith,</hi> but necessitates them when they please, with their Families, to make their Residence at <hi>Edinburgh.</hi>
+               </p>
+               <div type="response">
+                  <pb n="6" facs="tcp:176003:4"/>
+                  <head>EDINBURGH's Answer.</head>
+                  <p n="5">5. TO the fifth it is Answered, That the Town of <hi>Edinburgh</hi> compels not each Burgess to leave <hi>Leith,</hi> but only such as use Merchandize, who by the Law are bound to reside within Burgh's Royal.</p>
+               </div>
+               <div type="response">
+                  <head>LEITH's Reply.</head>
+                  <p n="5">5. TO the fifth, <hi>Leith</hi> Replyes, That albeit it were allowed to exhibite the using of Merchandize in Groce, except within free Burghs, yet to exhibite all kind of Mercats, and selling so much as Pine or Candle by retaile, but forcing all such to repair and dwell in <hi>Edinburgh,</hi> if the Magi<g ref="char:EOLhyphen"/>strates thereof please; There is no Law nor Statute commanding this. And any preceeding Custome in the Contrary, hath been a Tyranie called Usur<g ref="char:EOLhyphen"/>pation.</p>
+               </div>
+            </div>
+            <div n="8" type="claim">
+               <head>LEITH's Claime.</head>
+               <p n="6">6. THey exact from the Merchants of all Goods imported, of what Value soever, at the Port of <hi>Leith,</hi> one Merk upon the Tun and Pack, of all Forraign Commodities that comes into <hi>Leith</hi> by Sea or Land. Which is not at any other Port of <hi>Scotland,</hi> to the ruine of the Port &amp; Town. As also a Tax upone Wine, Tobacco, Strong Waters, which is at no other port.</p>
+               <div type="response">
+                  <head>EDINBURGH's Answer.</head>
+                  <p n="6">6. TO the sixth it is Answered, That for good Causes they have a Merk granted <hi>per</hi> Tun, of all Goods imported at <hi>Leith,</hi> by a publict Infeftment by King <hi>Charles</hi> the first, who being the Supream Magistrate, had power to impose the same. And it is an Argument of a distempered Spirit to assert the contrary, either in relation to the Merk, or to the Tax imposed upon Wine, Tobacco, or Strong Waters.</p>
+               </div>
+               <div type="response">
+                  <head>LEITH's Reply.</head>
+                  <p n="6">6. TO the sixth, <hi>Leith</hi> Replys, That albeit for publict Necessity of the Common Wealth, the Supream Magistrate may impose justly Tax<g ref="char:EOLhyphen"/>es upon the whole Nation. Yet to impose a Tax upon one Town, for Re<g ref="char:EOLhyphen"/>lief of another Town's burdens, is of another Nature. And if at any time, the Supream Magistrate upon the privat Information of the one party, grant any such Taxation, the other private not being heard, it is alwayes permitted, and cannot in Justice be denyed, That the partie grieved may notwithstand<g ref="char:EOLhyphen"/>ing of any such Grant, Represent his whole Reasons and Obligations, why if he had been heard, no such Gift could have been granted. And it were an Argument of Stupidity (which is the worst of Distempers, to assert the contrary.)</p>
+               </div>
+            </div>
+            <div n="9" type="claim">
+               <head>LEIEH's Claime.</head>
+               <p n="7">7. THey necessitate all Merchants to make the first Offer of all Merchan<g ref="char:EOLhyphen"/>dize imported to the Town of <hi>Edinburgh,</hi> and in the mean time, while they delay to set the price upon the Commodities, the Merchant is either forst to sell as they please, otherwayes to loose his Mercat, as falls forth dayly.</p>
+               <div type="response">
+                  <pb n="7" facs="tcp:176003:4"/>
+                  <head>EDINBURGH's Answers.</head>
+                  <p n="7">7. TO the seventh it is Answered, That the Necessity laid upon Merchants to make the first Offer of their Goods to a free Burgh, is to issue Extortion, and Forestalling, much conduceable for the Good of the Common Wealth.</p>
+               </div>
+               <div type="response">
+                  <head>LEITH's Reply.</head>
+                  <p n="7">7. TO the seventh <hi>Leith</hi> Replyes, That the Necessity of Offer of Merch<g ref="char:EOLhyphen"/>andize to the Magistrates, for excusing of pretended Forestalling and Extortion, is a Remedie worse then the Dezease, and the penalties mention<g ref="char:EOLhyphen"/>ed in many Acts of Parliamen, against Forestallers, is a far easier and sure Care.</p>
+               </div>
+            </div>
+            <div n="10" type="claim">
+               <head>LEITH's Claime.</head>
+               <p n="8">8. WIthout publict Warrant at their own Hands, they Necessitate all Mer<g ref="char:EOLhyphen"/>chants to weight their Merchandizes at <hi>Edinburgh</hi>'s publict Beam, set up in <hi>Leith,</hi> and to pay so much for the Weight. As also, to pay so much for Ballast Money, by their own private Authority, without publict Warrant.</p>
+               <div type="response">
+                  <head>EDINBURGH'S Answer.</head>
+                  <p n="8">8. TO tho eight it is Answered, That <hi>Edinburgh</hi> hath Right, and hath been in possession of a qublict Beam, or Weigh-House these many Ages, and is for a publict End, To prevent false and deceitful Weights, and that the Ballast Money was done by agreement, <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Magistrates of <hi>Edinburgh</hi> and Merchants of <hi>Leith.</hi>
+                  </p>
+               </div>
+               <div type="response">
+                  <head>Leiths Replyes.</head>
+                  <p n="8">8. TO the eight <hi>Leith</hi> Replyes, That the Erection of a Weigh-House at <hi>Leith,</hi> &amp; the necessitating of Merthants to come there with their Goods, is done by <hi>Edinburghs</hi> private Authority. King <hi>James</hi> his Gift being of a Weigh-House in <hi>Edinburgh,</hi> which can relate nothing to the present Weigh-House in <hi>Leith.</hi> And there being greater penalties imposed in many Acts of Parliament, upon Commodities of Falced, there needs in such <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> as <hi>Edinburghs</hi> publict Beam to be Erected, for prevention thereof, nor can any alleadge Agreement past betwixt the Magistrates of <hi>Edinburgh,</hi> and cer<g ref="char:EOLhyphen"/>tain Merchants, concerning the Ballest Money, that any person but these which made the Agreement.</p>
+               </div>
+            </div>
+            <div n="11" type="claim">
+               <head>
+                  <hi>LEITH'S</hi> Claim.</head>
+               <p n="9">9. THey meddle with <hi>Leith</hi>'s whole Common Good <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and boxes, and disposes thereon, without Consent or Counsel of any of the Inha<g ref="char:EOLhyphen"/>bitants of <hi>Leith.</hi>
+               </p>
+               <div type="response">
+                  <head>EDINBURGH's Answer.</head>
+                  <p n="9">9. THe ninth Grievance is positively denyed by the Burgh of <hi>Edinburgh.</hi>
+                  </p>
+               </div>
+               <div type="response">
+                  <head>Leith's Reply.</head>
+                  <p n="9">9. THe ninth Grievance <hi>Leith</hi> is ready to make Good.</p>
+               </div>
+            </div>
+            <div n="12" type="claim">
+               <pb n="8" facs="tcp:176003:5"/>
+               <head>LEITH's Claim.</head>
+               <p n="12">12. LAst, they deprive them of all benefit of Mercats; So that if they need but a Loaf of Bread, they must repair to <hi>Edinburgh</hi> before they can have it publickly to Seal.</p>
+               <p>All which is humbly referred to the Consideration of the Honourable Council.</p>
+               <div type="response">
+                  <head>EDINBURGH's Answer.</head>
+                  <p n="12">12. <hi>TO</hi> the last it is Answered, That they may justly prohibit any Mercat within the Town of <hi>Leith,</hi> by vertue of their Superiority, and Grant from King <hi>James;</hi> It being a paiviledge of all Superiors to have power of prohibition to any of their Vassals; And the Village of <hi>Leith</hi> is no Incorporation, but the Inhabitants thereof are only Fiewers of the Barrony of <hi>Restalrig.</hi>
+                  </p>
+               </div>
+               <div type="response">
+                  <head>Leiths Reply.</head>
+                  <p n="12">12. TO the Last, <hi>Leith</hi> Replyes, That not only by the Contract and of Gift Bailery; But lso by many Acts of Parliament they are called and acknowledged. The Town and Incorporation of <hi>Leith,</hi> with power to hold Mercats (as appeats particularly by the 92 Act of King <hi>James</hi> the <hi>4th,</hi> the sixth Parliament) and using of such priviledge, being requisite and necessary for all such Incorporations; And used and accustomed by the meanest Village in <hi>Scotland,</hi> yet denying to <hi>Leith;</hi> It is clearly evident from this, what favourable <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> this hundred years, who after having wrested from their own due priviledges usurped over them, and unsufferable and unparaleled Soveraignity, and the Gift granted by King <hi>James,</hi> not only Comprehends that, but many other Absurdities particu<g ref="char:EOLhyphen"/>larly set down in <hi>Leiths</hi> Dispute, too large to reside in this Abrivat, which are unsupportable in any Common Wealth, which are humbly recommended to your Lordships serious consideration.</p>
+               </div>
+            </div>
+            <trailer>
+               <hi>This is an Abreviat of the Debate betwixt</hi> Edinburgh <hi>and</hi> Leith, <hi>in</hi> Anno 1655, <hi>before the Council of</hi> SCOTLAND, <hi>in the foresaid Year.</hi>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
